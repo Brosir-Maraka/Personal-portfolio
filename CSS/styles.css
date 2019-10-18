@@ -1,4 +1,9 @@
-.profile{
-    height: 60%;
-    width: 100px;
-}
+.img {
+    height: 800X;
+    width: 500px;
+    border-radius: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+} 
