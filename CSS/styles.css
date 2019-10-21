@@ -19,5 +19,6 @@ h3 {
 body {
     text-align: center;
     border-block: 2px;
-    
+    padding: 50 px;
+    padding-bottom: 20;
 }
