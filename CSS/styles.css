@@ -9,6 +9,7 @@
     background-color: blue;
     image-orientation: flip;
     image-rendering: inherit;
+    padding: 30px;
 } 
 h3 {
     font: bolder;
@@ -20,5 +21,5 @@ body {
     text-align: center;
     border-block: 2px;
     padding: 50 px;
-    padding-bottom: 20;
+    padding-bottom: 20px;
 }
