@@ -7,8 +7,15 @@
 }
 
 body {
-    background-color: blue;
+    background-color:burlywood;
     text-align: center;
     padding: 50 px;
     border-block-end: coral;
+}
+nav {
+    padding-right: 80 px;
+    font-family: inherit;
+    color: Green;
+    font-size-adjust: 800px;
+    
 }
